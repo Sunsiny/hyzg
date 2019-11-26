@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hy-cars/hy-cars.iml" filepath="$PROJECT_DIR$/hy-cars/hy-cars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-cars/hy-cars-interface/hy-cars-interface.iml" filepath="$PROJECT_DIR$/hy-cars/hy-cars-interface/hy-cars-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-cars/hy-cars-service/hy-cars-service.iml" filepath="$PROJECT_DIR$/hy-cars/hy-cars-service/hy-cars-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-config-server/hy-config-server.iml" filepath="$PROJECT_DIR$/hy-config-server/hy-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-eureka-server/hy-eureka-server.iml" filepath="$PROJECT_DIR$/hy-eureka-server/hy-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-goods/hy-goods.iml" filepath="$PROJECT_DIR$/hy-goods/hy-goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-goods/hy-goods-interface/hy-goods-interface.iml" filepath="$PROJECT_DIR$/hy-goods/hy-goods-interface/hy-goods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-goods/hy-goods-service/hy-goods-service.iml" filepath="$PROJECT_DIR$/hy-goods/hy-goods-service/hy-goods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-manager/hy-manager.iml" filepath="$PROJECT_DIR$/hy-manager/hy-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-user/hy-user.iml" filepath="$PROJECT_DIR$/hy-user/hy-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-user/hy-user-interface/hy-user-interface.iml" filepath="$PROJECT_DIR$/hy-user/hy-user-interface/hy-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-user/hy-user-service/hy-user-service.iml" filepath="$PROJECT_DIR$/hy-user/hy-user-service/hy-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-zuul-server/hy-zuul-server.iml" filepath="$PROJECT_DIR$/hy-zuul-server/hy-zuul-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hyzg.iml" filepath="$PROJECT_DIR$/hyzg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hy-manager/manager-service/manager-service.iml" filepath="$PROJECT_DIR$/hy-manager/manager-service/manager-service.iml" />
+    </modules>
+  </component>
+</project>
